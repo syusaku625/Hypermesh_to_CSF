@@ -1,0 +1,9 @@
+*.dat
+a.out
+*.ply
+*.vtk
+*.stl
+*.vtu
+*.inp
+*.ply
+*.json
