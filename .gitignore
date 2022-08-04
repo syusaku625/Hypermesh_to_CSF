@@ -6,4 +6,5 @@ a.out
 *.vtu
 *.inp
 *.ply
+*.py
 *.json
